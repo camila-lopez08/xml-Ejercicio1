@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listaventas SYSTEM  "Ejercicio1.dtd">
+<listaventas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="Ejercicio1.xsd">
+    <venta>
+        <importe>00011</importe>
+        <comprador>Fernando Ochoa</comprador>
+        <vendedor>Camila Lopez</vendedor>
+        <fecha>2022-10-10</fecha>
+        <codigofactura>COD-700</codigofactura>
+    </venta>
+    <venta>
+        <importe>00012</importe>
+        <comprador>Juanita</comprador>
+        <vendedor>Fernando Figueroa</vendedor>
+        <fecha>2022-10-11</fecha>
+        <codigofactura>COD-701</codigofactura>
+    </venta>
+    <venta>
+        <importe>00013</importe>
+        <comprador>Juanito</comprador>
+        <vendedor>Sara Perez</vendedor>
+        <codigofactura>COD-702</codigofactura>
+    </venta>
+</listaventas>
